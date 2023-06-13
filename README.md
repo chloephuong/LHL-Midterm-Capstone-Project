@@ -1,3 +1,3 @@
 # LHL-Midterm-Capstone-Project
 
-Student name:
+Student name: Chloe 
