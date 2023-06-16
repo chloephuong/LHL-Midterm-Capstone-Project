@@ -7,7 +7,7 @@ The objective of this project is to perform exploratory data analysis and create
 ## Process
 
 #### Step 1: Data Collection:
-The first step of the project involved obtaining the raw crime dataset for Los Angeles. The dataset included attributes such as crime code description, date of occurrence, time of occurrence, location, area name, premise description, status of the report, victim descent, victim sex, weapon description, crime code count, latitude, longitude, and victim age.
+The first step of the project involved to select and download dataset from online. Downloaded crime dataset of Los Angeles from US Government open data website.The dataset included attributes such as crime code description, date of occurrence, time of occurrence, location, area name, premise description, status of the report, victim descent, victim sex, weapon description, crime code count, latitude, longitude, and victim age.
 
 #### Step 2: Data Preprocessing:
 To ensure data integrity and reliability, the raw dataset underwent preprocessing using Python. This step included handling missing values, transforming data types, and extracting relevant features. Additionally, data cleaning techniques were applied to address any inconsistencies or anomalies in the dataset.
